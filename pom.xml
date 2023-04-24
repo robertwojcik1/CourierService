@@ -9,7 +9,6 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>parent-module</module>
 		<module>bom-module</module>
 		<module>delivery</module>
 		<module>delivery-administration</module>
